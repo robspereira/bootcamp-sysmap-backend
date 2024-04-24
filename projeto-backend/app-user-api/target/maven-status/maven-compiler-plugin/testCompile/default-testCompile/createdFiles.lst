@@ -1,0 +1,4 @@
+br/com/sysmap/bootcamp/appuserapi/BootcampApplicationTests.class
+br/com/sysmap/bootcamp/domain/service/WalletServiceTest.class
+br/com/sysmap/bootcamp/domain/service/UsersServiceTest.class
+br/com/sysmap/bootcamp/web/UsersControllerTest.class
